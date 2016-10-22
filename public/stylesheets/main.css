@@ -1,3 +1,10 @@
 body{
-  background-color: #C390D4;
+  background-color: #FFCAD4;
+}
+main{
+  margin: 40px;
+  padding: 40px;
+  background-color: #FFFFFF;
+  font-family: 'Abhaya Libre', serif;
+  color: #B0D0D3
 }
