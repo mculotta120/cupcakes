@@ -8,3 +8,19 @@ main{
   font-family: 'Abhaya Libre', serif;
   color: #B0D0D3
 }
+h1{
+  font-size: 45px;
+}
+#textArea{
+  margin: 40px;
+  padding: 40px;
+}
+.pageTitle{
+  text-align: center;
+  /*margin: -300px;*/
+}
+.mainImage{
+  display: block;
+  margin: auto;
+  /*width: 40%;*/
+}
